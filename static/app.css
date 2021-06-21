@@ -1,0 +1,19 @@
+.board {
+	border: solid 1px black;
+	font-size: 150%;
+}
+
+.board td {
+	text-align: center;
+	width: 2rem;
+}
+
+.message.success {
+	color: white;
+	background-color: blue;
+}
+
+.message.error {
+	color: white;
+	background-color: red;
+}
